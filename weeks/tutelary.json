@@ -1,0 +1,32 @@
+{
+	"storyName": "an unexpected visiter...",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "bald",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Tutelary",
+			"empty",
+			[
+				0,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "tutelary",
+	"hiddenUntilUnlocked": false
+}

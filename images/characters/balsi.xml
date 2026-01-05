@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="balsi.png">
+<SubTexture name="idle0000" x="626" y="0" width="212" height="654" frameX="-553" frameY="-247" frameWidth="1280" frameHeight="960" />
+<SubTexture name="left0000" x="418" y="0" width="208" height="655" frameX="-549" frameY="-247" frameWidth="1280" frameHeight="960" />
+<SubTexture name="left0001" x="211" y="0" width="207" height="656" frameX="-551" frameY="-246" frameWidth="1280" frameHeight="960" />
+<SubTexture name="left0002" x="0" y="0" width="211" height="657" frameX="-552" frameY="-246" frameWidth="1280" frameHeight="960" />
+<SubTexture name="right0000" x="929" y="657" width="431" height="651" frameX="-552" frameY="-250" frameWidth="1280" frameHeight="960" />
+<SubTexture name="right0001" x="0" y="657" width="427" height="652" frameX="-553" frameY="-249" frameWidth="1280" frameHeight="960" />
+<SubTexture name="right0002" x="838" y="0" width="426" height="653" frameX="-553" frameY="-248" frameWidth="1280" frameHeight="960" />
+<SubTexture name="up0000" x="0" y="1309" width="291" height="644" frameX="-489" frameY="-253" frameWidth="1280" frameHeight="960" />
+<SubTexture name="up0001" x="1688" y="649" width="290" height="645" frameX="-490" frameY="-252" frameWidth="1280" frameHeight="960" />
+<SubTexture name="up0002" x="1688" y="0" width="290" height="649" frameX="-490" frameY="-251" frameWidth="1280" frameHeight="960" />
+<SubTexture name="up0003" x="427" y="657" width="290" height="652" frameX="-490" frameY="-250" frameWidth="1280" frameHeight="960" />
+<SubTexture name="down0000" x="1476" y="0" width="212" height="650" frameX="-553" frameY="-251" frameWidth="1280" frameHeight="960" />
+<SubTexture name="down0001" x="717" y="657" width="212" height="652" frameX="-553" frameY="-249" frameWidth="1280" frameHeight="960" />
+<SubTexture name="down0002" x="1264" y="0" width="212" height="653" frameX="-553" frameY="-248" frameWidth="1280" frameHeight="960" />
+</TextureAtlas>

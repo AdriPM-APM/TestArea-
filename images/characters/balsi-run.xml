@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="balsi-run.png">
+<SubTexture name="idle0000" x="1030" y="0" width="623" height="513" frameX="-221" frameY="-369" frameWidth="1100" frameHeight="1000" />
+<SubTexture name="idle0001" x="0" y="522" width="407" height="513" frameX="-262" frameY="-369" frameWidth="1100" frameHeight="1000" />
+<SubTexture name="up0000" x="407" y="0" width="623" height="519" frameX="-221" frameY="-363" frameWidth="1100" frameHeight="1000" />
+<SubTexture name="left0000" x="0" y="0" width="407" height="522" frameX="-262" frameY="-360" frameWidth="1100" frameHeight="1000" />
+<SubTexture name="down0000" x="407" y="522" width="407" height="512" frameX="-262" frameY="-370" frameWidth="1100" frameHeight="1000" />
+<SubTexture name="right0000" x="814" y="522" width="627" height="512" frameX="-221" frameY="-370" frameWidth="1100" frameHeight="1000" />
+</TextureAtlas>
