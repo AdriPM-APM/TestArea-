@@ -1,0 +1,191 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				177,
+				-18
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "idle-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				177,
+				-18
+			],
+			"anim": "singLEFT-alt",
+			"fps": 12,
+			"name": "left-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				177,
+				-18
+			],
+			"anim": "singDOWN-alt",
+			"fps": 12,
+			"name": "down-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				177,
+				-18
+			],
+			"anim": "singUP-alt",
+			"fps": 12,
+			"name": "up-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				177,
+				-18
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 12,
+			"name": "right-alt0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				177,
+				-17
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				4,
+				5,
+				5,
+				5,
+				6,
+				6,
+				6,
+				6,
+				7,
+				7,
+				7,
+				7,
+				8,
+				8,
+				8,
+				9,
+				9,
+				9,
+				9
+			],
+			"fps": 24,
+			"anim": "fall",
+			"loop": false,
+			"name": "fall0"
+		},
+		{
+			"offsets": [
+				177,
+				-17
+			],
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			],
+			"fps": 24,
+			"anim": "fallreal",
+			"loop": false,
+			"name": "fall0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/balsi-fight",
+	"position": [
+		-170,
+		-220
+	],
+	"healthicon": "balsi",
+	"flip_x": false,
+	"healthbar_colors": [
+		127,
+		116,
+		63
+	],
+	"camera_position": [
+		-120,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
